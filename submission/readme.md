@@ -4,10 +4,9 @@
 ```
 git clone paste_the_copied_url.
 ```
-- Open folder "submssion" using command:
-```cd submission
-```
-- Create new branch using command:
+- Open folder "submssion" using command :
+cd submission
+- Create new branch using command :
 ```git branch new_branch_name
 ```
 eg:git branch swaaz
@@ -15,12 +14,12 @@ eg:git branch swaaz
 ```git checkout new_branch_name
 ```
 eg-git checkout swaaz
-- Create file using command:nano username.md
+- Create file using command :
+nano username.md
 eg: nano swaaz.md
 - Fill all the required details 
 - Save file using :
-```ctrl+x -> y
-```
+ctrl+x -> y
 - Add file using command:
 ```
 git add -A
