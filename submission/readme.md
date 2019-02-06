@@ -1,38 +1,28 @@
 # Submission
 - Fork this [repo](https://github.com/classsankalp/prastice)
 - Clone it using command :
-```
-git clone paste_the_copied_url.
-```
+<pre> $ git clone paste_the_copied_url.</pre>
 - Open folder "submssion" using command :
-cd submission
+<pre>$ cd submission</pre>
 - Create new branch using command :
-```git branch new_branch_name
-```
+<pre> $ git branch new_branch_name</pre>
 eg:git branch swaaz
 - Checkout to new branch from master branch using command:
-```git checkout new_branch_name
-```
+<pre>$ git checkout new_branch_name</pre>
 eg-git checkout swaaz
 - Create file using command :
-nano username.md
+<pre>$ nano username.md</pre>
 eg: nano swaaz.md
 - Fill all the required details 
 - Save file using :
-ctrl+x -> y
+<pre>$ ctrl+x -> y</pre>
 - Add file using command:
-```
-git add -A
-```
+<pre>$ git add -A</pre>
 - Commit file using command:
-```
-git commit -m "comment"
-```
+<pre>$ git commit -m "comment"</pre>
 eg-git commit -m "profile added"
 - Push the file using command:
-```
-git push origin -u 'branch_name'
-```
+<pre>$ git push origin -u 'branch_name'</pre>
 eg-git push origin -u swaaz
 - The given link should be copied and pasted in web browser
 - Click on create pull request.
